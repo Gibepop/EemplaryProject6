@@ -24,10 +24,7 @@ Servo has a running angle of approximately 180°, its angular velocity can be ea
 A module which allows to controll directrion and speed of two DC motors.
 https://components101.com/modules/l293n-motor-driver-module
 ## Other:
--a breadboard, 
--KORAD DC power supply, 
--a lot of wires, 
--self-made wooden "floors" which allowes to fit all parts on the chaissis
+a breadboard; KORAD DC power supply; a lot of wires; self-made wooden "floors" which allowes to fit all parts on the chaissis (floors.jpg)
 # State of the art 
-A circuit and the code and are going to be based on the tutorials (https://maker.pro/raspberry-pi/projects/make-obstacle-avoiding-robot-raspberry-pi) and (https://diyprojectslab.com/raspberry-pi-with-l298n-driver/)
+A circuit (circuit_test.jpg) and the code and are going to be based on the tutorials (https://maker.pro/raspberry-pi/projects/make-obstacle-avoiding-robot-raspberry-pi) and (https://diyprojectslab.com/raspberry-pi-with-l298n-driver/)
 

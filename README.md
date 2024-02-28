@@ -1,4 +1,4 @@
-# ExemplaryProject 5 (Title of the project)
+# Moving robot navigated by LIDAR camera
 # Authors 
 - Piotr Słowik
 # Description of the project 
